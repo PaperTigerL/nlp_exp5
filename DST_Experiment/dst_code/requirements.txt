@@ -1,0 +1,5 @@
+datasets
+filelock
+nltk
+numpy
+transformers==4.21.2
